@@ -1,0 +1,18 @@
+# Hemligheter och nycklar
+.env
+.env.*
+*.key
+*.pem
+*secret*
+*credentials*
+
+# Python-cache och virtuella miljöer
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editor- och OS-skräp
+.vscode/
+.idea/
+.DS_Store
